@@ -12,7 +12,7 @@ C 시스템 모듈과 회사 홈페이지를 직접 만들었고, 클라우드 �
 | 프로젝트 | 무엇을 | 내 역할 | 결과 |
 |---|---|---|---|
 | [**DnDn**](https://github.com/ACS-DnDn) | AWS 운영 이벤트를 모아 AI가 보고서·작업계획서·Terraform 초안을 만들고, 승인해야 배포되는 플랫폼 | 4인 · AI·인프라 담당<br>문서 자동 생성(Bedrock), MCP·Checkov 연동, 모니터링, Jira 일정 관리 | AWS Cloud School 최종 경진대회 **우수상** |
-| [**Hye_Bom**](https://github.com/ChanHyeok-Jeon/Hye_Bom) | 혀 사진으로 설태 상태를 분류하고 생활 관리 안내를 보여 주는 AI | 3인 · 기획·PM | KISTI 바이오헬스 DATA·AI 챌린지 **최우수상**(KISTI 원장상) |
+| [**Hye_Bom**](https://github.com/ChanHyeok-Jeon/Hye_Bom) | 혀 사진으로 혀 상태를 분류하고, LLM이 건강 상태·병원 방문 필요 여부를 안내하는 AI | 3인 · 기획·PM | KISTI 바이오헬스 DATA·AI 챌린지 **최우수상**(KISTI 원장상) |
 | [**ResumeGPT**](https://github.com/ChanHyeok-Jeon/ResumeGPT) | 구직자는 내 이력서로 상담하고, 기업은 자연어로 인재를 찾는 챗봇 | 4인 · PM, 백엔드 전체 | 교내 오픈소스 SW 활용 대회 실용성 부문 **단정상** |
 | [**Zenith-Hackathon**](https://github.com/ChanHyeok-Jeon/Zenith-Hackathon) | CCTV 영상에서 쓰레기 무단 투기를 감지해 관제 프로그램에 기록 | 5인 · YOLO 객체 탐지 모델 | 배재대 AI·XR 소셜 해커톤 **사업단장상** |
 | [**legal-deadline-ai**](https://github.com/ChanHyeok-Jeon/legal-deadline-ai) | 질문·문서·사진에서 AI가 기준일을 읽고, 규칙 엔진이 근거 조문과 함께 법정기간을 계산 | 개인 · 기획·구현 | [직접 써 보기](https://jeon-chanhyeok.cloud/deadline/) · 테스트 23개 |
