@@ -15,6 +15,7 @@ C 시스템 모듈과 회사 홈페이지를 직접 만들었고, 클라우드 �
 | [**Hye_Bom**](https://github.com/ChanHyeok-Jeon/Hye_Bom) | 혀 사진으로 혀 상태를 분류하고, LLM이 건강 상태·병원 방문 필요 여부를 안내하는 AI | 3인 · 기획·PM | KISTI 바이오헬스 DATA·AI 챌린지 **최우수상**(KISTI 원장상) |
 | [**ResumeGPT**](https://github.com/ChanHyeok-Jeon/ResumeGPT) | 구직자는 내 이력서로 상담하고, 기업은 자연어로 인재를 찾는 챗봇 | 4인 · PM, 백엔드 전체 | 교내 오픈소스 SW 활용 대회 실용성 부문 **단정상** |
 | [**Zenith-Hackathon**](https://github.com/ChanHyeok-Jeon/Zenith-Hackathon) | CCTV 영상에서 쓰레기 무단 투기를 감지해 관제 프로그램에 기록 | 5인 · YOLO 객체 탐지 모델 | 배재대 AI·XR 소셜 해커톤 **사업단장상** |
+| [**player-pulse**](https://github.com/ChanHyeok-Jeon/player-pulse) | 커뮤니티 반응을 매시간 모아 근거 기반 중요도(●●●●●) 순으로 매일 아침 Slack에 보내는 동향 브리핑 | 개인 · 기획·구현 | [화면 보기](https://chanhyeok-pm.cloud/pulse/) · 실제 Slack 운영 중 |
 | [**devpm-weekly-report**](https://github.com/ChanHyeok-Jeon/devpm-weekly-report) | 이슈 데이터에서 진척률·지연·연쇄 영향은 코드가 집계하고, AI가 주간 리포트를 쓰고, 코드가 다시 검증 | 개인 · 기획·구현 | [직접 써 보기](https://chanhyeok-pm.cloud/report/#demo) · 테스트 9개 |
 | [**legal-deadline-ai**](https://github.com/ChanHyeok-Jeon/legal-deadline-ai) | 질문·문서·사진에서 AI가 기준일을 읽고, 규칙 엔진이 근거 조문과 함께 불변기한을 계산 | 개인 · 기획·구현 | [직접 써 보기](https://jeon-chanhyeok.cloud/deadline/) · 테스트 23개 |
 | [**AI-LTV**](https://github.com/ChanHyeok-Jeon/AI-LTV) | MMORPG 이탈 위험을 예측하고 원인별로 NPC가 개입하는 구조를 합성 데이터로 검증 | 개인 PoC | 설계서·시뮬레이션 리포트 |
